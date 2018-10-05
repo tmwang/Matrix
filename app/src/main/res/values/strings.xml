@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AccidentReporter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="hint_stringarr">
+        <item>There is a police here.</item>
+        <item>Traffic here is very slow.</item>
+        <item>Not able to enter.</item>
+        <item>Can not park here.</item>
+        <item>Camera here.</item>
+        <item>Turn off your headlight.</item>
+    </string-array>
+
+</resources>
